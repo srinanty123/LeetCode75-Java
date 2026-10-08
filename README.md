@@ -10,6 +10,7 @@ Java solutions for LeetCode 75.
 | [0151-reverse-words-in-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/srinanty123/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/srinanty123/LeetCode-Java/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/srinanty123/LeetCode-Java/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/srinanty123/LeetCode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -17,6 +18,7 @@ Java solutions for LeetCode 75.
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/srinanty123/LeetCode-Java/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/srinanty123/LeetCode-Java/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/srinanty123/LeetCode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
@@ -41,4 +43,8 @@ Java solutions for LeetCode 75.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/srinanty123/LeetCode-Java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/srinanty123/LeetCode-Java/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
