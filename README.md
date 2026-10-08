@@ -6,6 +6,7 @@ Java solutions for LeetCode 75.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/srinanty123/LeetCode-Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/srinanty123/LeetCode-Java/tree/main/0027-remove-element/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/srinanty123/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
@@ -24,6 +25,7 @@ Java solutions for LeetCode 75.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/srinanty123/LeetCode-Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/srinanty123/LeetCode-Java/tree/main/0027-remove-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srinanty123/LeetCode-Java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/srinanty123/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
@@ -33,6 +35,7 @@ Java solutions for LeetCode 75.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/srinanty123/LeetCode-Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/srinanty123/LeetCode-Java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/srinanty123/LeetCode-Java/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
