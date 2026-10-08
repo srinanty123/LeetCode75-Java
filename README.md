@@ -9,12 +9,14 @@ Java solutions for LeetCode 75.
 | [0027-remove-element](https://github.com/srinanty123/LeetCode-Java/tree/main/0027-remove-element/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/srinanty123/LeetCode-Java/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/srinanty123/LeetCode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/srinanty123/LeetCode-Java/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/srinanty123/LeetCode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
 | Problem Name | Difficulty |
